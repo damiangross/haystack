@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/deepset-ai/haystack/master/docs/_src/img/haystack_logo_blue_banner)
+![Logo](https://raw.githubusercontent.com/deepset-ai/haystack/master/docs/_src/img/haystack_Logo_readme.png )
 
 <p>
     <a href="https://github.com/deepset-ai/haystack/actions">
